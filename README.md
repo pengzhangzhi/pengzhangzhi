@@ -1,17 +1,15 @@
-### Hi there 👋
+## Hello and Welcome! 👋
 
 
-**pengzhangzhi/pengzhangzhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I am Zhangzhi Peng, a python programmer.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m a CS student ...
+#### FACTS ABOUT ME.
 - 🌱 I’m currently working on deep learning research expecially spatial-temporal data prediction...
 - 👯 I’m looking to collaborate on Deep Learning Research Code...
-- 💬 Ask me about anything...
-- 📫 How to reach me: zhangzhipengcs@foxmail.com...
-- 😄 Hobbys: want to try all sports.
-- ⚡ Fun fact: I find myself stupid often..
+- 📫 Reach me: zhangzhipengcs@foxmail.com...
+- 😄 Hobbys: sports, vlog
+
 
 ![](https://github-readme-stats.vercel.app/api?username=pengzhangzhi&theme=dark)
 
