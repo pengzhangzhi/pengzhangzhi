@@ -1,14 +1,17 @@
 ## Hello and Welcome! 👋
 
 
-### I am Zhangzhi Peng, a python programmer.
+### I am Zhangzhi Peng (彭张智).
 
 
 #### FACTS ABOUT ME.
-- 🌱 I’m currently working on deep learning research expecially spatial-temporal data prediction...
-- 👯 I’m looking to collaborate on Deep Learning Research Code...
-- 📫 Reach me: zhangzhipengcs@foxmail.com...
-- 😄 Hobbys: sports, vlog
+- 🌱 A Python Programmer.
+- 👯 Research intersts: Deep learning
+- 😄 Hobbys: 
+    - All sports (recently I fall in love with swimming). 
+    - Vlog. Just record those happy days and forever enjoy them when I look back.
+- 📫 Reach me: zhangzhipengcs@foxmail.com
+
 
 
 ![](https://github-readme-stats.vercel.app/api?username=pengzhangzhi&theme=dark)
