@@ -5,11 +5,11 @@
 
 
 #### FACTS ABOUT ME.
-- 🌱 A Python Programmer.
+- 🌱 CS Student. My programming skills include python, web development (Node.JS).
 - 👯 Research intersts: Deep learning
 - 😄 Hobbys: 
-    - All sports (recently I fall in love with swimming). 
-    - Vlog. Just record those happy days and forever enjoy them when I look back.
+    - sports (recently I fall in love with swimming). 
+    - Vlog.
 - 📫 Reach me: zhangzhipengcs@foxmail.com
 
 
