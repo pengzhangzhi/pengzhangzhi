@@ -8,7 +8,7 @@
 I am problem solver and active thinker. Seriously I am a CS student.
 - skills:
     - Python (pytorch)
-    - C/ C++. I have taken an online course 6.S081, where I use C to basically build a XV6 (an unix-like OS). Really appreciate abstract designs behind OS (e.g., file system, and virtual memory). 
+    - C/ C++. I have taken an online course 6.S081, where I use C to basically build a XV6 (an unix-like OS). I learn to appreciate the abstract designs behind OS (e.g., file system, and virtual memory) during the couse. 
     - Web Devlopment (front- and back-end)
         - front-end: bootstrap, layui, and of couse HTML, CSS, javascript.
         - back-end: JAVA (springboot), javascript (node.js framework: express) 
