@@ -3,9 +3,9 @@
 
 ### I am Zhangzhi Peng (彭张智).
 
-I am a problem solver, active thinker and big fan of SCIENCE. Programming is just one of my tools. 
-I am active in open source projects. My goal is to remove all the barriers in the way of knowledge.
-I helped @piglei publish a python book, which is free online, check here https://pengzhangzhi.github.io/one-python-craftsman/.
+- I am a problem solver, active thinker and big fan of SCIENCE. Programming is just one of my tools. 
+- I am active in open source projects. My goal is to remove all the barriers in the way of knowledge.
+- I helped [@piglei](https://github.com/piglei) publish a (python book)[https://pengzhangzhi.github.io/one-python-craftsman/], which is free online.
 
 <!-- 
 #### FACTS ABOUT ME.
