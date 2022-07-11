@@ -1,12 +1,12 @@
-## Hello and Welcome! 👋
+## Hello and Welcome! 
 
 
 ### I am Zhangzhi Peng (彭张智).
 
 - I am a problem solver, active thinker and big fan of SCIENCE. Programming is just one of my tools. 
-- I am active in open source projects. My goal is to remove all the barriers in the way of knowledge.
+- I am active in open source projects, contribution of code, collections of beginner resources. My goal is to remove all the barriers in the way of knowledge.
 - I helped [@piglei](https://github.com/piglei) publish a [python book](https://pengzhangzhi.github.io/one-python-craftsman/), which is free online.
-- I am a life-long self-taught student. I learned most of my CS knowledge from online resources (courses, books), which shape me into who I am today.
+- I am a life-long self-taught student. I learned most of my CS knowledge from online resources (courses, books), which shape me into who I am today. [check here.](https://pengzhangzhi.github.io/self-taught/)
 <!-- 
 #### FACTS ABOUT ME.
 
