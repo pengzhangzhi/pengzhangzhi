@@ -11,7 +11,6 @@
 🎉**Update**:
 Those words are written when I was a undergradute student. I am now a phd student and the above still holds. 
 
-![Profile views](https://gpvc.arturio.dev/pengzhangzhi)
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=pengzhangzhi&theme=dark) -->
 <!-- <a href=""> <img align="center" src="[https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pengzhangzhi](https://github-readme-stats.vercel.app/api?username=pengzhangzhi)&theme=react&line_height=40&hide=css"/> </a> -->
