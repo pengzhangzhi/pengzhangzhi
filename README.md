@@ -1,7 +1,7 @@
 ## Hello and Welcome! 
 
 
-### I am Zhangzhi Peng (彭张智).
+<!--  ### I am Zhangzhi Peng (彭张智).-->
 
 - I am a problem solver, active thinker, and a big fan of SCIENCE. Programming is just one of my tools. 
 - I am active in open science (open source). My goal is to remove all the barriers in the way of knowledge.
